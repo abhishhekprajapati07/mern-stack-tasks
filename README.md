@@ -1,2 +1,2 @@
-# mern-stack-38-tasks
-A collection of 38 MERN Stack tasks.
+# mern-stack-tasks
+A collection of MERN Stack tasks.
